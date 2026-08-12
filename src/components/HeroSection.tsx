@@ -95,7 +95,7 @@ export const HeroSection: React.FC = () => {
               </div>
               <div className="flex items-center gap-2.5">
                 <Truck className="w-5 h-5 text-earth-600 shrink-0" />
-                <span className="text-xs font-semibold text-olive-900">Hızlı Köy Kargosu</span>
+                <span className="text-xs font-semibold text-olive-900">Hızlı & Güvenli Kargo</span>
               </div>
               <div className="flex items-center gap-2.5">
                 <MessageCircle className="w-5 h-5 text-emerald-600 shrink-0" />
