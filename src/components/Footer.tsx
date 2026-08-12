@@ -20,7 +20,7 @@ export const Footer: React.FC = () => {
             </div>
 
             <p className="text-xs text-cream-300/80 leading-relaxed max-w-sm mb-6">
-              Hatay / Hassa bahçelerimizden ve imalathanemizden kapınıza kadar uzanan katıksız doğallık. PET şişede sızma zeytinyağı, yoğurt bidonunda Halhalı kırma zeytin & sünme peynir, Hassa kuru incir ve taze çilek.
+              Hatay'ın Hassa ilçesindeki bahçelerimizden ve imalathanemizden kapınıza kadar uzanan katıksız doğallık. PET şişede sızma zeytinyağı, yoğurt bidonunda Halhalı kırma zeytin & sünme peynir, Hassa kuru incir ve taze çilek.
             </p>
 
             <a
@@ -58,7 +58,7 @@ export const Footer: React.FC = () => {
             <ul className="space-y-3 text-xs text-cream-300/90 font-medium">
               <li className="flex items-start gap-2.5">
                 <MapPin className="w-4 h-4 text-amber-500 shrink-0 mt-0.5" />
-                <span><strong>Adres:</strong> Hatay / Hassa Bahçelerimiz & İmalathanemiz, Hatay, Türkiye</span>
+                <span><strong>Adres:</strong> Hassa İlçesi, Hatay Bahçelerimiz & İmalathanemiz, Hatay, Türkiye</span>
               </li>
               <li className="flex items-center gap-2.5">
                 <Phone className="w-4 h-4 text-emerald-500 shrink-0" />

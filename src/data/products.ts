@@ -194,13 +194,13 @@ export const PRODUCTS: Product[] = [
     badge: 'Çok Satan',
     rating: 5.0,
     reviewsCount: 340,
-    description: 'Hatay Hassa köyümüzün en meşhur mahsullerini tek paket avantajıyla sunuyoruz. İçerik: 1 kg Bidonda Halhalı Zeytin, 1 Litre PET Sızma Zeytinyağı, 1 kg Bidonda Hatay Sünme Peynir, 500g Hassa Kuru İncir, 1 kg Hassa Taze Çilek.',
+    description: 'Hatay\'ın Hassa ilçesindeki bahçelerimizin en meşhur mahsullerini tek paket avantajıyla sunuyoruz. İçerik: 1 kg Bidonda Halhalı Zeytin, 1 Litre PET Sızma Zeytinyağı, 1 kg Bidonda Hatay Sünme Peynir, 500g Hassa Kuru İncir, 1 kg Hassa Taze Çilek.',
     origin: 'Hatay / Hassa',
-    harvestYear: 'Taze Köy Paketi',
+    harvestYear: 'Taze Hassa Hasadı',
     benefits: [
       '%15 Avantajlı Paket Fiyatı',
       'Geleneksel PET şişe ve bidon ambalajlı',
-      'Tamamen Hatay Hassa bahçelerimizden'
+      'Tamamen Hatay\'ın Hassa ilçesindeki bahçelerimizden'
     ],
     storageTips: 'Peynir ve zeytini buzdolabında, yağı serin yerde saklayınız.',
     inStock: true,

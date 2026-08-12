@@ -6,13 +6,13 @@ export const BrandStory: React.FC = () => {
   const storyFeatures = [
     {
       icon: <Sun className="w-8 h-8 text-amber-600" />,
-      title: 'Hatay Hassa Topraklarının Bereketi',
-      desc: 'Amanos dağlarının eteklerindeki Hassa bahçelerimizden Halhalı zeytinlerimizi, incir ve meşhur Hassa çileklerimizi sevgiyle topluyoruz.',
+      title: 'Hatay Hassa İlçesi Bereketi',
+      desc: 'Amanos dağlarının eteklerindeki Hassa ilçesi bahçelerimizden Halhalı zeytinlerimizi, incir ve meşhur Hassa çileklerimizi özenle topluyoruz.',
     },
     {
       icon: <HeartHandshake className="w-8 h-8 text-olive-600" />,
       title: 'Yoğurt Bidonunda & Pet Şişede Katkısız',
-      desc: 'Köylerimizdeki geleneksel yönteme bağlı kalarak zeytinyağlarımızı şeffaf pet şişelere, zeytin ve peynirlerimizi kaya tuzlu yoğurt bidonlarına basıyoruz.',
+      desc: 'Hassa ilçemizin geleneksel yöntemlerine bağlı kalarak zeytinyağlarımızı şeffaf pet şişelere, zeytin ve peynirlerimizi kaya tuzlu yoğurt bidonlarına basıyoruz.',
     },
     {
       icon: <Sparkles className="w-8 h-8 text-amber-500" />,
@@ -22,7 +22,7 @@ export const BrandStory: React.FC = () => {
     {
       icon: <ThermometerSnowflake className="w-8 h-8 text-earth-600" />,
       title: 'Hatay Hassa’dan Güvenli Teslimat',
-      desc: 'Siparişlerinizi Hatay / Hassa imalathanemizden sızdırmaz ambalajlı ve buz korumalı olarak Türkiye’nin 81 iline gönderiyoruz.',
+      desc: 'Siparişlerinizi Hatay Hassa ilçemizdeki imalathanemizden sızdırmaz ambalajlı ve buz korumalı olarak Türkiye’nin 81 iline gönderiyoruz.',
     },
   ];
 
@@ -33,13 +33,13 @@ export const BrandStory: React.FC = () => {
         {/* Section Title */}
         <div className="text-center max-w-3xl mx-auto mb-16">
           <span className="text-xs font-extrabold uppercase tracking-widest text-earth-600 bg-earth-100 px-4 py-1.5 rounded-full inline-block mb-3">
-            Köyümüzden Sofranıza
+            Bahçelerimizden Sofranıza
           </span>
           <h2 className="font-serif text-3xl sm:text-4xl lg:text-5xl font-extrabold text-olive-900 mb-4">
             Neden Hatay Hassa Hasbahçe?
           </h2>
           <p className="text-sm sm:text-base text-olive-800/80 leading-relaxed">
-            Biz Hatay / Hassa’nın öz kültürünü, köylümüzün pet şişelere ve yoğurt bidonlarına basarak hazırladığı o samimi, saf ve katkısız Hatay lezzetlerini tüm Türkiye ile buluşturuyoruz.
+            Biz Hatay'ın güzel Hassa ilçesinin bereketli topraklarını, ilçemizdeki yerel üreticilerimizin pet şişelere ve yoğurt bidonlarına basarak hazırladığı o samimi, saf ve katkısız Hatay lezzetlerini tüm Türkiye ile buluşturuyoruz.
           </p>
         </div>
 
